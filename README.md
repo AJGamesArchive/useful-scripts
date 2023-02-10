@@ -4,6 +4,7 @@ This repo is a collection of scripts I've written over time that are either rand
 
 This repo currently contains scripts for:
 
+- TypeScript
 - C#
 - Python
 
